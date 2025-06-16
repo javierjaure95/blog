@@ -13,11 +13,11 @@ Este proyecto es un Blog web
 
 1. Clonar el repositorio:  
    ```bash
-   git clone https://github.com/javierjaure95/TaskTracker.git
+   git clone https://github.com/javierjaure95/blog.git
    ```
 2. Entrar a la carpeta:
    ```bash
-   cd TaskTracker/tasktracker
+   cd blog
    ```
 3. Crear y levantar los contenedores Docker
    ```bash
