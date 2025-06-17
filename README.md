@@ -17,7 +17,7 @@ Este proyecto es un Blog web
    ```
 2. Entrar a la carpeta:
    ```bash
-   cd blog
+   cd blog/blog
    ```
 3. Crear y levantar los contenedores Docker
    ```bash
